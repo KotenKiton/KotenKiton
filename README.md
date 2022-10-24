@@ -26,11 +26,10 @@
 <p align="right">
   <a href="https://t.me/BiLLGradLe"><img width="22px" alt="Telegram" title="Telegram" src="images/Telegram.png"/></a>
  
-
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=anikknik" alt="Profile Views:">
+  <img src="https://komarev.com/ghpvc/?username=KotenKiton" alt="Profile Views:">
 </p>
 
 
