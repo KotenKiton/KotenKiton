@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hello, my name is Paul. I'm AQA.
+### My name is Paul. I'm AQA.
 ### Here you can see examples of my autotests in java
 
 
