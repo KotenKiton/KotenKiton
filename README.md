@@ -21,7 +21,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotenKiton&show_icons=true&theme=blue-green)
 
-### <p align="right"></a>:new_moon_with_face: Contact Me:
+### <p align="right"></a>:new_moon_with_face: Contact Me
 
 <p align="right">
   <a href="https://t.me/BiLLGradLe"><img width="22px" alt="Telegram" title="Telegram" src="images/Telegram.png"/></a>
