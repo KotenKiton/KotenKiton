@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Paul
+### Hello, my name is Paul. I'm AQA . Here you can see examples of my code in java
 
 
 `Technology used:`
