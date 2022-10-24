@@ -19,7 +19,7 @@
 <img width="6%" title="Telegram" src="images/Telegram.png">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotenKiton&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotenKiton&show_icons=true&theme=blue-green)
 
 
 
