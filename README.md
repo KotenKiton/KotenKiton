@@ -24,7 +24,7 @@
 ### <p align="right"></a>:relaxed: Contact Me 
 
 <p align="right">
-  <a href="https://t.me/BiLLGradLe"><img width="22px" alt="Telegram" title="Telegram" src="images/sprites/Telegram.svg"/></a>
+  <a href="https://t.me/BiLLGradLe"><img width="22px" alt="Telegram" title="Telegram" src="images/Telegram.png"/></a>
  
 
 </p>
