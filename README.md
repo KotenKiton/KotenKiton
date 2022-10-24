@@ -25,7 +25,7 @@
 
 <p align="right">
   <a href="https://t.me/BiLLGradLe"><img width="22px" alt="Telegram" title="Telegram" src="images/sprites/Telegram.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+ 
 
 </p>
 
