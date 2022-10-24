@@ -18,7 +18,7 @@
 <img width="6%" title="Telegram" src="images/Telegram.png">
 </p>
 
-![KotenKiton github stats](https://github-readme-stats.vercel.app/api?username=KotenKiton&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotenKiton&show_icons=true&theme=dracula)
 
 
 
