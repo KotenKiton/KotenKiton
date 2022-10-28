@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Paul. I'm AQA.
-### Here you can see examples of my autotests in java.
+### Here you can see the examples of my automation projects in java.
 
 
 `Technology used:`
