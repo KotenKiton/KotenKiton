@@ -19,7 +19,6 @@
 <img width="6%" title="Telegram" src="images/Telegram.png">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KotenKiton&show_icons=true&theme=blue-green)
 
 ### <p align="right"></a>:new_moon_with_face: Contact Me
 
